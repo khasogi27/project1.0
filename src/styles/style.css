@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-    background-image: url(https:/octa-digital.co/wp-content/uploads/2017/10/web-design-2018.png);
+    background-image: url("https:/octa-digital.co/wp-content/uploads/2017/10/web-design-2018.png");
     height: 500px;
     background-position: center center;
 }
