@@ -1,0 +1,141 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-image: url(https:/octa-digital.co/wp-content/uploads/2017/10/web-design-2018.png);
+    height: 500px;
+    background-position: center center;
+}
+
+.first {
+    margin: 40px auto;
+    padding: 20px 30px 40px 30px;
+    overflow: auto;
+    width: 75%;
+    align-self: center;
+}
+
+.first p {
+    color: grey;
+    text-align: center;
+    line-height: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.article div {
+    border-radius: 50px;
+    font: inherit;
+    padding: 30px 20px;
+    color: white;
+    overflow: auto;
+    opacity: 0.9;
+}
+
+.article p {
+    color: white;
+    text-align: left;
+}
+
+.article1 {
+    background-color: cornflowerblue
+}
+
+.article2 {
+    background-color: grey
+}
+
+.article3 {
+    background-color: black;
+}
+
+h1 {
+    color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    line-height: 76px;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    top: 20%;
+}
+
+h2 {
+    color: cornsilk
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: .2em;
+}
+
+h5 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: .2em;
+    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, .footer {
+    text-align: center;
+}
+
+ul {
+    margin: 0 auto;
+    padding: 0;
+    width: 75%;
+}
+
+li {
+    border-bottom: 1px solid cornsilk;
+    list-style: none;
+    margin: 100px 0px;
+    padding-bottom: 60px;
+}
+
+p {
+    color: grey;
+    line-height: 32px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+a {
+    color: wheat;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-size: 50px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+a:hover {
+    color:black;
+}
+
+.link {
+    background-color: grey;
+    border-radius: 25px;
+    padding: 5px  5px;
+    max-width: 15%;
+    text-align: center
+}
